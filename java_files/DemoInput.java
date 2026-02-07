@@ -5,9 +5,6 @@ Scanner sc = new Scanner(System.in);
 System.out.println("Enter a number:");
 int x = sc.nextInt();
 System.out.println("You entered: " + x);
-
-Using System Packages
-
 sc.close();
 }
 }
